@@ -12,7 +12,7 @@ The favorites list is maintained in memory while the user is on the app.
 -   Material UI
 -   State management -- React Context
 
-![Example](https://github.com/Vlad-UA/github-repositories/assets/1283267/556a210b-a665-43dc-857d-41e71ba1b9cd)
+https://github.com/Vlad-UA/github-repositories/assets/1283267/3fce3d4d-e88d-4108-b3c4-bfaca85ecefc
 
 
 # How to run the application
